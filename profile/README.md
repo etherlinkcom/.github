@@ -1,12 +1,7 @@
-## Hi there 👋
+## Welcome to Etherlink's GitHub 👋
 
-<!--
+Etherlink is a decentralized & EVM compatible Layer-2 blockchain built on Tezos. Why should you care? Because decentralization matters. Decentralization provides censorship resistance, and a peace of mind that your assets will be stored on a reliable, secure and fast chain. Decentralisation, speed and UX are Tezos' strengths, and now your favourite EVM apps can enjoy it too. Oh and by the way, Etherlink will upgrade alongside Tezos L1, so stay tuned 👀
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* If you're eager to find out more, and only have a couple of minutes, boy do we have the website for you! Check out [https://etherlink.com](https://etherlink.com).
+* If you want to dive deeper and build something, welcome builder 🤝 and head over to the [docs](https://docs.etherlink.com).
+* If you want to try the chain out for yourself, you can get some testnet XTZ via the [Etherlink faucet](https://faucet.etherlink.com).
